@@ -1,18 +1,13 @@
 /* NOTES
-  
-DONE
   - Do not modify the given HTML for the cards. You may add the link tag for CSS.
   - Add a CSS file to your project and copy the base CSS code from the README.md file 
   - Write the rest of the CSS to match your final HTML/CSS page with the image below.
   - Use the grid properties to layout the emoji cards
-
-  NOT DONE
   - Use the flexbox properties to layout the content of the emoji cards
   - Have the emoji card content in proper order as per the image
   - The buttons in each card should be aligned with the bottom of the card using a flexbox property
   - Setup GitHub pages site for your repository
   - Test the GitHub pages URL and submit it for assessment
-
 */
 
 body {
@@ -30,8 +25,8 @@ body {
   .emoji {
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
 
+    /* justify-content: flex-end; */
     /* align-items: center; 
     NOTE: once I commented this out from emoji and moved it to icon the layout looked more like the assignment images' */
     /* NOTES:
