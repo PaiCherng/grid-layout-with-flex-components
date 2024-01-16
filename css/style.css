@@ -48,7 +48,6 @@ body {
     margin: 0;
     border-bottom: 2px solid #ccc;
     flex-grow: 0;
-    align-self: left;
   }
 
   .icon {
@@ -59,7 +58,6 @@ body {
   }
 
   .emoji p {
-    align-self: left;
     flex-grow: 1;
   }
   
@@ -69,7 +67,6 @@ body {
     color: white;
     padding: 1rem;
     border-radius: 8px;
-    align-self: left;
     flex-grow: 0;
     /* width: 92%; */
   }
