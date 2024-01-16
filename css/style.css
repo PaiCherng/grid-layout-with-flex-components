@@ -31,7 +31,9 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    /* align-items: center; */
+
+    /* align-items: center; 
+    NOTE: once I commented this out from emoji and moved it to icon the layout looked more like the assignment images' */
     /* NOTES:
     target the 
     > H2 
